@@ -1,4 +1,2 @@
 #Title
 ##Introduction
-##Body
-##Conclusion
