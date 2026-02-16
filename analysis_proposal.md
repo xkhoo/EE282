@@ -32,10 +32,17 @@ Steps 1, 2, and 4 of the proposed analyses have been completed. I am currently f
 
 
 ## References
+
 Chen I-MA, Chu K, Palaniappan K, Ratner A, Huang J, Huntemann M, Hajek P, Ritter Stephan J, Webb C, Wu D et al. 2022. The IMG/M data management and analysis system v.7: content updates and new features. Nucleic Acids Research 51: D723-D732.
+
 Farr TG, Rosen PA, Caro E, Crippen R, Duren R, Hensley S, Kobrick M, Paller M, Rodriguez E, Roth L et al. 2007. The Shuttle Radar Topography Mission. Reviews of Geophysics 45.
+
 Fick SE, Hijmans RJ. 2017. WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas. International Journal of Climatology 37: 4302-4315.
+
 Hijmans RJ. 2022. terra: Spatial Data Analysis. R package version 1.5-21.
+
 Karaoz U, Brodie EL. 2022. microTrait: A Toolset for a Trait-Based Representation of Microbial Genomes. Frontiers in Bioinformatics Volume 2 - 2022.
+
 Olm MR, Brown CT, Brooks B, Banfield JF. 2017. dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication. The ISME Journal 11: 2864-2868.
+
 Zheng J, Ge Q, Yan Y, Zhang X, Huang L, Yin Y. 2023. dbCAN3: automated carbohydrate-active enzyme and substrate annotation. Nucleic Acids Research 51: W115-W121. 
