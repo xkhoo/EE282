@@ -1,0 +1,11 @@
+#To detele a remote branch
+git push origin --delete BRANCH_NAME
+#Make sure repo is up to data
+git fetch --all --prune
+#Create a new branch and switch to it
+git switch -c my_new_branch
+#Confirm switching to new branch
+git branch --show-current
+git status
+#Push the new branch to github
+git push -u origin my_new_branch
