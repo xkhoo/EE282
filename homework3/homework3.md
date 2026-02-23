@@ -53,7 +53,7 @@ ea600dbb86f1779463f69082131753cd  data/homework3/dmel_annotation.gtf.gz
 ```
 
 ### B. Compile a report summarizing the annotation
-#### Total number of feature counts by type (from most common to least common)
+#### 1) Total number of feature counts by type (from most common to least common)
 
 Command used:
 ```bash
@@ -89,7 +89,7 @@ Output saved to:
      32 snRNA
 ```
 
-#### Total number of genes per chromosome arm (X, Y, 2L, 2R, 3L, 3R, 4)
+#### 2) Total number of genes per chromosome arm (X, Y, 2L, 2R, 3L, 3R, 4)
 
 Command used:
 ```bash
