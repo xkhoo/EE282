@@ -9,3 +9,5 @@ git branch --show-current
 git status
 #Push the new branch to github
 git push -u origin my_new_branch
+#Make an orphan branch that starts empty
+git switch --orphan homework3
