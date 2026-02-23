@@ -1,5 +1,10 @@
 # Homework3: Pipelines for generating genome and annotation summaries of _Drosophila melanogaster_ 
 
+## Required environment
+- ```bash
+  conda activate ee282
+  ```
+
 ## Retrieve fasta and annotation files from the database (FlyBase)
 - All chromosome genome file (FASTA_FILE): `data/homework3/dmel_all_chromosomes.fasta.gz`
 - Annotation GTF file (GTF_FILE): `data/homework3/dmel_annotation.gtf.gz`
