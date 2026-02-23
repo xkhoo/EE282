@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-set -euo pipefail
 
 FASTA_FILE="data/homework3/dmel_all_chromosomes.fasta.gz"
 OUTDIR="result/homework3"

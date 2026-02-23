@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-set -euo pipefail
 
 GTF_FILE="data/homework3/dmel_annotation.gtf.gz"
 OUTDIR="result/homework3"
