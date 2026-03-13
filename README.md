@@ -1,2 +1,1 @@
-# EE282
-Informatics Class
+homework3
